@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/md-abu-kayser/typescript-professional-notes/issues"
   },
-  "homepage": "https://github.com/md-abu-kayser/typescript-professional-notes#readme"
+  "homepage": "https://github.com/md-abu-kayser/typescript-professional-notes#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
