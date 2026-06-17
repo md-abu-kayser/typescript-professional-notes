@@ -19,5 +19,8 @@
   "homepage": "https://github.com/md-abu-kayser/typescript-professional-notes#readme",
   "devDependencies": {
     "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.8.0"
   }
 }
